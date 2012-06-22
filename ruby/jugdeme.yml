@@ -1,9 +1,9 @@
 development:
-  api_url: "http://localhost:3000"
-  api_key: "874c424039a52441f0d8752b4dea24016575d099ee56f2a3f0ed02a974038eed"
+  api_url: "http://www.judge.me"
+  api_key: "YOUR_API_KEY"
   format: "xml"
 
 production:
-  api_url: "http://api.judgeme.com"
-  api_key: "874c424039a52441f0d8752b4dea24016575d099ee56f2a3f0ed02a974038eed"
+  api_url: "http://www.judge.me"
+  api_key: "YOUR_API_KEY"
   format:  "json"
